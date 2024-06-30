@@ -24,4 +24,4 @@ I ensured the software’s functionality and security by performing comprehensiv
 I utilized tools like OWASP ZAP for scanning vulnerabilities, SonarQube for analyzing code quality, and GitHub for version control. Adopting secure coding practices, such as input validation and proper error handling, will be beneficial in future projects.
 
 ### Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
-From this assignment, I can demonstrate my ability to conduct thorough security assessments, identify and fix software vulnerabilities, and apply best practices for secure coding. The detailed reports and secure codebase from this project are excellent examples of my capabilities in software security.
+From this assignment, I can demonstrate my ability to conduct thorough security assessments, identify and fix software vulnerabilities, and apply best practices for secure coding. The detailed reports and secure codebase from this project are exemplary of my capabilities in software security.
